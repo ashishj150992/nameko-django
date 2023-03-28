@@ -1,5 +1,5 @@
 django==1.11.*
-nameko==2.11.*
+nameko==2.14.*
 msgpack==1.0.*
 aenum==2.1.*
 python-box==3.2.*
